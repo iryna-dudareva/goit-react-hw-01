@@ -1,0 +1,35 @@
+
+.transaction_table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+    text-transform: uppercase;
+}
+
+.transaction_table th,
+.transaction_table td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.table_header{
+    background-color: rgb(46, 45, 45);
+    color: white;
+}
+
+.even_row {
+    background-color: grey;
+
+}
+
+.odd_row {
+    background-color: white;
+}
+
+.transaction_table th,
+.transaction_table td {
+    font-size: 14px;
+}
+

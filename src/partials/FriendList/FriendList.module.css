@@ -1,0 +1,15 @@
+.friend_list{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 100px;
+    font-family: Arial, sans-serif;
+}
+
+.friend_item{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px 15px;
+}
